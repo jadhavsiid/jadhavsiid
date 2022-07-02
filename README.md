@@ -2,10 +2,9 @@
 Welcome to my Github Profile.🙏🏼
 
 Basic Info about me: 
-My name is Siddhesh Jadhav 🧑🏽|
-I like to Swim 🏊🏼‍♂️|
-To read books 📚 |
-and,
+My name is Siddhesh Jadhav 🧑🏽 |
+I like to Swim 🏊🏼‍♂️ |
+To read books 📚  |
 To develop some cool websites 💻
 
 Programming Languages I know 💻: C, C++, Python, Javascript.
