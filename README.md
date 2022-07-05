@@ -1,4 +1,5 @@
-![Github header](https://user-images.githubusercontent.com/101967370/176996418-07df8118-d1a3-46e7-8b90-5e3302bc7aae.png)
+![Github header](https://user-images.githubusercontent.com/101967370/177280908-b9220b9a-5d51-498f-81a6-2b328391f516.png)
+
 Welcome to my Github Profile.🙏🏼
 
 Basic Info about me: 
