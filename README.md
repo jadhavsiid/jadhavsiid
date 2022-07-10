@@ -1,4 +1,4 @@
-![Github final header](https://user-images.githubusercontent.com/101967370/178149089-52aa0c66-afb3-42c7-b512-423d2a13d07c.png)
+![Github header](https://user-images.githubusercontent.com/101967370/178149593-34f7f09b-2ef9-43bd-8952-4e62e8cbd7b9.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siidjadhav&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siidjadhav&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
