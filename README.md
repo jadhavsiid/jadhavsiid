@@ -1,8 +1,8 @@
 ![Github header (2)](https://user-images.githubusercontent.com/101967370/178149742-f554d70d-9521-436c-b4ff-8d6ec4dd050d.png)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jadhavsiid&show_icons=true&theme=shades-of-purple)
-![Top Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsiid&layout=compact&theme=shades-of-purple)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jadhavsiid&show_icons=true&theme=radical)
+![Top Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsiid&layout=compact&theme=radical)
 
 **Technical Skills**
 
