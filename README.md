@@ -1,4 +1,4 @@
-![Github header (2)](https://user-images.githubusercontent.com/101967370/178149742-f554d70d-9521-436c-b4ff-8d6ec4dd050d.png)
+![Github header](https://user-images.githubusercontent.com/101967370/183253190-ffc5cc28-f421-4a61-9421-c5cc26b153ad.png)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jadhavsiid&show_icons=true&theme=radical)
