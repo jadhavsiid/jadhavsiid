@@ -3,7 +3,7 @@
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jadhavsiid&show_icons=true&theme=radical)
-![Top Languages Compact](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsiid&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsiid&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Technical Skills**
 
