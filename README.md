@@ -1,7 +1,3 @@
-![gif](https://github.com/jadhavsiid/jadhavsiid/assets/101967370/24ae65be-a4a8-43e1-b0c0-3498c2a8cb12)
-
-
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jadhavsiid&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavsiid&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
